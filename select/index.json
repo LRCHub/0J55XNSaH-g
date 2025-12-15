@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "PAINKILLER",
+  "base_artist": "秋山黄色",
+  "createdAt": "2025-12-15T10:17:26.306067Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "PAINKILLER",
+      "artist": "Kiro Akiyama",
+      "has_synced": true,
+      "path": "select/01_PAINKILLER_Kiro_Akiyama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Painkiller",
+      "artist": "Westworld",
+      "has_synced": false,
+      "path": "select/02_Painkiller_Westworld.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Painkiller - Kill The Pain DJ Shadow vs. Depeche Mode",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/03_Painkiller_-_Kill_The_Pain_DJ_Shadow_vs._Depeche_Mode_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Painkiller",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/04_Painkiller_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Depeche Mode \u0000 Painkiller",
+      "artist": "Depeche Mode",
+      "has_synced": false,
+      "path": "select/05_Depeche_Mode_\u0000_Painkiller_Depeche_Mode.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Painkiller",
+      "artist": "Death",
+      "has_synced": true,
+      "path": "select/06_Painkiller_Death.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Painkiller",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/07_Painkiller_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Painkiller - Live from Battle Cry",
+      "artist": "Judas Priest",
+      "has_synced": true,
+      "path": "select/08_Painkiller_-_Live_from_Battle_Cry_Judas_Priest.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Painkiller",
+      "artist": "Angra",
+      "has_synced": true,
+      "path": "select/09_Painkiller_Angra.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Painkiller",
+      "artist": "Beach Bunny",
+      "has_synced": true,
+      "path": "select/10_Painkiller_Beach_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Painkiller",
+      "artist": "Beach Bunny",
+      "has_synced": true,
+      "path": "select/11_Painkiller_Beach_Bunny.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Painkiller - Audiotree Live Version",
+      "artist": "Beach Bunny",
+      "has_synced": false,
+      "path": "select/12_Painkiller_-_Audiotree_Live_Version_Beach_Bunny.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Painkiller",
+      "artist": "Three Days Grace",
+      "has_synced": true,
+      "path": "select/13_Painkiller_Three_Days_Grace.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Painkiller (Remixed Version)",
+      "artist": "Angra",
+      "has_synced": false,
+      "path": "select/14_Painkiller_(Remixed_Version)_Angra.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PAINKILLER",
+      "artist": "秋山黄色",
+      "has_synced": false,
+      "path": "select/pl_01_PAINKILLER_秋山黄色.txt"
+    }
+  ]
+}
